@@ -2,6 +2,8 @@
 
 
 
+
+
 ## Software Design and Engineering
 ```markdown
 import json
@@ -118,6 +120,7 @@ def retrievenames():
 ### Algorithms and Data Structures Narrative
 The second artifact as shown above is an addition to the RESTful API final project as discussed in the first artifact. As mentioned previously, the library that I had found provided most of the information that I had required about the stocks, but not all. By looking at the file above, you can see that there is a node object to hold the ticker name and the company name as well as two other functions. The first function is in place to search the node after it has been filled with data, while the second function downloads files from NASDAQ and then procedes to parse them and fills the node with them. I included this artifact not only to show my knowledge in data structures and algorithms through the searching and parsing, but also to show that I can make two different data sources mesh into a seamless API. When working on this artifact the largest challenge I had faced was ensuring that the searching algorithm was returning the right result while also being quick and efficient, I rembered when taking my datastructures course that searching a sorted list is very simple and I employed the search as shown above. 
 
+
 ## Databases
 ```markdown
 #Function that creates a graph that indicates price over time as well as shows the data for the passed 100 days
@@ -167,4 +170,4 @@ def createGraph(data, ticker, title, subtitle):
 The third artifact as shown above is an addition to the RESTful API final project as discussed in the first and second artifacts above. This artifact is in place in order to show the user all of the data they have requested in a graphical form. In order to show the user the data, a HTML page is created and returned through the RESTful service. The user will be able to search for tickers, see the graph of the price over time of a given ticker and see the past 100 days of data for the given ticker. If the user searches a ticker that does not exist they will be given an error. I believe this showcases my ability to create user interfaces that are interactive and intuative to users. When working on this portion of the project, I found that getting the proper formatting of the HTML was the most challenging portion of this artifact as one little mistake could change how the interface looked completely. 
 
 ## Professional Self-Assessment
-
+Completing my computer science degree and creating an ePortfolio has given me such a different perspective now that I am so close to being done. This degree program is in place to allow individuals to better themselves and learn the common techniques and practices that are performed in the computer science industry. I believe that this degree has given me the ability to effectivly collaborate using tools such as git and bitbucket. Similarly, it has also showed me how important it is to ensure that there is proper communication with the customer whether that be internal or external, also while taking this course I was able to witness a program fail due to their lack of communicaiton with the customer at work. This degree also gave me a deep understanding of the importance of optimizing your data structures and algorithms to ensure that you are as efficient as possible with processor time. Lastly, one of the most interesting and important topics I had learned about in this degree is the importance of secure coding practices, this is very important to me as I currently work for a government contractor and unsecure code could cost soldiers their lives if malicious individuals are able to attack a system. With all of that being said, below is an indication of what I have learned throughout this degree and what I have improved and learned that I will continue to apply in the future as I start my career.
