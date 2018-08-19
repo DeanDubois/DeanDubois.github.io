@@ -116,6 +116,7 @@ def retrievenames():
 ```
 
 ### Algorithms and Data Structures Narrative
+The second artifact as shown above is an addition to the RESTful API final project as discussed in the first artifact. As mentioned previously, the library that I had found provided most of the information that I had required about the stocks, but not all. By looking at the file above, you can see that there is a node object to hold the ticker name and the company name as well as two other functions. The first function is in place to search the node after it has been filled with data, while the second function downloads files from NASDAQ and then procedes to parse them and fills the node with them. I included this artifact not only to show my knowledge in data structures and algorithms through the searching and parsing, but also to show that I can make two different data sources mesh into a seamless API. When working on this artifact the largest challenge I had faced was ensuring that the searching algorithm was returning the right result while also being quick and efficient, I rembered when taking my datastructures course that searching a sorted list is very simple and I employed the search as shown above. 
 
 ## Databases
 ```markdown
