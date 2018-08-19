@@ -11,12 +11,12 @@ import pymongo
 
 from pymongo import MongoClient
 from alpha_vantage.timeseries import TimeSeries
-from node import *
-from databases import *
+from node import 
+from databases import 
 
 
 ts = TimeSeries(key='6HQRIH70OOR9FDN4', output_format='pandas')
-names = []
+names = Null
 
 
 #RESTFUL Get Stock based on ticker
