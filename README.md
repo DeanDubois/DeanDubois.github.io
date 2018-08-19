@@ -164,3 +164,7 @@ def createGraph(data, ticker, title, subtitle):
 
 
 ### Databases Narrative
+The third artifact as shown above is an addition to the RESTful API final project as discussed in the first and second artifacts above. This artifact is in place in order to show the user all of the data they have requested in a graphical form. In order to show the user the data, a HTML page is created and returned through the RESTful service. The user will be able to search for tickers, see the graph of the price over time of a given ticker and see the past 100 days of data for the given ticker. If the user searches a ticker that does not exist they will be given an error. I believe this showcases my ability to create user interfaces that are interactive and intuative to users. When working on this portion of the project, I found that getting the proper formatting of the HTML was the most challenging portion of this artifact as one little mistake could change how the interface looked completely. 
+
+## Professional Self-Assessment
+
