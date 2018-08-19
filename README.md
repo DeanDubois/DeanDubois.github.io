@@ -45,6 +45,7 @@ if __name__ == '__main__':
 ```
 
 ### Software Design and Engineering Narrative
+    The first artifact shown above was taken from a final project in a previous course. The goal of this project was to create a RESTful API in which stock information could be requested through a browser and the data would be pulled from a database with fixed information. I chose this item to improve uppon because I knew it was something that could not be used in the real world due to the fact that the stock information was not up to date. 
 
 
 ## Algorithms and Data Structures
