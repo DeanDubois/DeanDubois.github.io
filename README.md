@@ -1,8 +1,8 @@
-## Welcome to Dean Dubois' ePortfolio
+# Welcome to Dean Dubois' ePortfolio
 
 
 
-### Software Design and Engineering
+## Software Design and Engineering
 ```markdown
 
 ```
@@ -10,14 +10,14 @@
 ### Software Design and Engineering Narrative
 
 
-### Algorithms and Data Structures
+## Algorithms and Data Structures
 ```markdown
 
 ```
 
 ### Algorithms and Data Structures Narrative
 
-### Databases
+## Databases
 ```markdown
 
 ```
